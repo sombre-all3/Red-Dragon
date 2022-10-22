@@ -29,7 +29,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
+global.vcardowner = ['+2250556933397'] // owner number
 global.ownername = "𝘿𝘼𝙍𝙆 𝙆𝙄𝙇𝙇𝙐𝘼❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
@@ -50,8 +50,8 @@ global.welcom_msg = "false" // Welcome / Goodbye   [true/false]
 global.owner = ['+2250501129818']
 global.ownertag = '+2250501129818' //your tag number
 global.botname = '𝘿𝘼𝙍𝙆 𝘽𝙊𝙏' //ur bot name
-global.packname = "𝙎𝙊𝙈𝘽𝙍𝙀 𝘿𝘼𝙀𝙈𝙊𝙉" // sticker packname
-global.author = "𝙁𝘼𝙏𝙄𝘼 𝙄 𝙇𝙊𝙑𝙀 𝙔𝙊𝙐🤭❤️🍑" // sticker author
+global.packname = "𝙎𝙊𝙈𝘽𝙍𝙀 ♣ 𝘿𝘼𝙀𝙈𝙊𝙉" // sticker packname
+global.author = "" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
