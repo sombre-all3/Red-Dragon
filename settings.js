@@ -11,12 +11,12 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = ` ```Les gens vivent en s'appuyant sur leurs convictions et leurs connaissances et ils appellent ça la réalité, mais le savoir et la compréhension sont des concepts si ambigus que cette réalité ne pourrait être alors qu'une illusion....```
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (*moi et mes.demons nous sommes du mm côtés* `` )
 
 
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
@@ -38,7 +38,7 @@ global.location = "India, Mizoram, Aizawl" // location
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
+global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "true" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
@@ -47,20 +47,20 @@ global.upsongvoice = "true" // true/false \\ bot can upload song as voice note (
 global.welcom_msg = "false" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+2250501129818']
-global.ownertag = '+2250501129818' //your tag number
+global.owner = ['+2250556933397']
+global.ownertag = '+2250556933397' //your tag number
 global.botname = '𝘿𝘼𝙍𝙆 𝘽𝙊𝙏' //ur bot name
-global.packname = "𝙎𝙊𝙈𝘽𝙍𝙀 ♣ 𝘿𝘼𝙀𝙈𝙊𝙉" // sticker packname
+global.packname = "🥀⃞⃕𝙎𝙊𝙈𝘽𝙍𝙀༆𝘿𝘼𝙀𝙈𝙊𝙉⟫❦⃞᭄*" // sticker packname
 global.author = "" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+2250501129818'] //ur premium numbers
+global.premium = ['+2250556933397'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
-global.antitags = false
+global.antitags = true
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
 global.mess = {
